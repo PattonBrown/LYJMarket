@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LYMarket.iml" filepath="$PROJECT_DIR$/LYMarket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LYJMarket.iml" filepath="$PROJECT_DIR$/LYJMarket.iml" />
     </modules>
   </component>
 </project>
