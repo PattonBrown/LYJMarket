@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58f83a72-24c4-46a4-b4e6-54c64b928dd9" name="变更" comment="idea_test">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_0_33.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-j-8.0.33.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Util/MD5Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/IUserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/ProductDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/SaleDetailDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/impl/ProductDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/impl/SaleDetailDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/impl/UserDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dbc/DatabaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/driver/demoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/driver/driverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/driver/logTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/DAOFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/Cashier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/ChangePassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/ExportData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/LogOn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/MainMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/ProductMaintenance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/QueryStatistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/SaleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vo/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vo/SaleDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vo/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LYMarket.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LYJMarket.iml" afterDir="false" />
-    </list>
+    <list default="true" id="58f83a72-24c4-46a4-b4e6-54c64b928dd9" name="变更" comment="大作业完成版" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,12 +127,20 @@
       <option name="project" value="LOCAL" />
       <updated>1684483777477</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="大作业完成版">
+      <created>1684983286433</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684983286433</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="idea_test" />
-    <option name="LAST_COMMIT_MESSAGE" value="idea_test" />
+    <MESSAGE value="大作业完成版" />
+    <option name="LAST_COMMIT_MESSAGE" value="大作业完成版" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
